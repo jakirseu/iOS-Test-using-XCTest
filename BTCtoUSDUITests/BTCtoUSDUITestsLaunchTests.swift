@@ -1,10 +1,3 @@
-//
-//  BTCtoUSDUITestsLaunchTests.swift
-//  BTCtoUSDUITests
-//
-//  Created by Jakir Hossain on 23/10/23.
-//
-
 import XCTest
 
 final class BTCtoUSDUITestsLaunchTests: XCTestCase {
